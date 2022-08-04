@@ -23,4 +23,12 @@ float a = (float)b;
 int health = 100;
 int * addressOfHealth = &health;
 int valueOfHealth = *addressOfHealth; 
+
+printf("health: %i\n", health);
+printf("addressOfHealth: %p\n", addressOfHealth);
+printf("valueOfHealth: %.2f\n", valueOfHealth);
+
+health: 100
+addressOfHealth: 00000009D54FF624
+valueOfHealth: 100.00
 ```
