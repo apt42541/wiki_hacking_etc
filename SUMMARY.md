@@ -1,6 +1,6 @@
 # Table of contents
 
-* [home](README.md)
+* [หน้าหลัก](README.md)
 
 ## Cheat Engine
 
